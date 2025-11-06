@@ -109,7 +109,7 @@ export default function ChatBot() {
   const [messages, setMessages] = useState<Message[]>([
     {
       id: '1',
-      text: "Hi! I'm your AI spiritual companion. 🤗\n\nI can help with:\n✝️ Faith & discipleship questions\n💙 Mental health support\n🙏 Prayer & Bible guidance\n🎯 Life direction & purpose\n\nI'm here to listen without judgment. What's on your heart today?",
+      text: "Hi! I'm your AI spiritual companion on TheCircle. 🤗\n\nTheCircle is Africa's Christian super-app connecting faith, community, and opportunity. I'm here to support you with:\n\n✝️ Faith & discipleship growth\n💙 Mental health & emotional wellness\n🙏 Prayer support & Bible guidance\n🎯 Purpose discovery & career direction\n🤝 Community connections & mentorship\n\nI combine Biblical wisdom with practical mental health support. I'm here to listen without judgment. What's on your heart today?",
       sender: 'bot',
       timestamp: new Date()
     }
